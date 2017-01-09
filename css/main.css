@@ -38,7 +38,7 @@ body{
 }
 @media (min-width: 240px) and (max-width: 479px){
     .content{
-        margin-top: 98%;
+        margin-top: 110%;
         opacity: 0.2;
     }
 }
