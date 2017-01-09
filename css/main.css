@@ -51,7 +51,7 @@ body{
     height: auto;
     padding: 10px;
 }
-@media (min-width: 240px){
+@media (min-width: 240px) and (max-width: 479px){
     .content{
         margin-top: 40%;
     }
