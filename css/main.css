@@ -57,7 +57,10 @@ p{
 }
 @media (min-width: 480px){
     .content{
-        margin-top: 30%;
+        margin-top: 10%;
+    }
+    .p{
+        font-size: 10px;
     }
 }
 
