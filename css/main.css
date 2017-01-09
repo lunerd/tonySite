@@ -17,7 +17,7 @@ body{
     text-align: center;
 }
 .logo a img{
-    width: 35px;
+    width: 45px;
     height: auto;
     padding: 10px;
 }
@@ -40,6 +40,9 @@ body{
     padding: 10px;
 }
 @media (min-width: 240px) and (max-width: 479px){
+    .logo a img{
+        margin-left: 10px;
+    }
     .content{
         margin-top: 110%;
     }
