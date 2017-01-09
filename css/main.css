@@ -39,7 +39,7 @@ body{
 @media (min-width: 240px) and (max-width: 479px){
     .content{
         margin-top: 95%;
-        opacity: 0.3;
+        opacity: 0.2;
     }
 }
 @media (min-width: 480px){
