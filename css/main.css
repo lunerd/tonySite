@@ -43,9 +43,6 @@ body{
     text-align: center;
     padding: 10px;
 }
-.contact-info li{
-    display: inline;
-}
 .contact-info :nth-child(4){
     width: 100%;
 }
