@@ -21,6 +21,9 @@ body{
     height: auto;
     padding: 10px;
 }
+.content{
+    opacity: 0.2;
+}
 .contact-info{
     position: relative;
     width: 80%;
@@ -39,12 +42,11 @@ body{
 @media (min-width: 240px) and (max-width: 479px){
     .content{
         margin-top: 110%;
-        opacity: 0.2;
     }
 }
 @media (min-width: 480px){
     .content{
-        margin-top: 10%;
+        margin-top: 30%;
     }
 }
 
