@@ -5,22 +5,46 @@ body{
     background-size: cover;
     background-color: black;
 }
-h1{
+.info h1{
     font-family: "Oswald", sans-serif;
     font-weight: 700;
     text-transform: uppercase;
+    text-align: center;
 }
-.logo>img{
+.logo a img{
     width: 35px;
     height: auto;
     padding: 10px;
 }
+.logo p{
+    float: right;
+    padding: 10px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    color: #7b7b7b;
+    font-size: 10px;
+    text-transform: uppercase;
+}
+.logo span{
+    font-weight: 600;
+}
 .info{
     color: #fff;
 }
+.info p{
+    font-family: "Open Sans", sans-serif;
+    color: #7b7b7b;
+    text-align: center;
+}
+.contact-info{
+    position: relative;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+}
 .contact-info li{
     display: inline;
-    padding: 15px 10px;
 }
 .contact-info :nth-child(4){
     width: 100%;
