@@ -10,6 +10,11 @@ h1{
     font-weight: 700;
     text-transform: uppercase;
 }
+.logo>img{
+    width: 35px;
+    height: auto;
+    padding: 10px;
+}
 .info{
     color: #fff;
 }
@@ -17,7 +22,27 @@ h1{
     display: inline;
     padding: 15px 10px;
 }
+.contact-info :nth-child(4){
+    width: 100%;
+}
 .contact-info img{
     width: 35px;
     height: auto;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
