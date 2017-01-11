@@ -71,12 +71,12 @@ p{
         margin-left: 10px;
     }
     .content{
-        margin-top: 85%;
+        margin-top: 95%;
     }
 }
 @media (min-width: 841px){
     .content{
-        margin-top: 60%;
+        margin-top: 50%;
     }
 }
 
