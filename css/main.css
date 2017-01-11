@@ -47,6 +47,7 @@ p{
     height: auto;
     padding: 0 10px;
 }
+/* --- beginning of mobile styling --- */
 @media (min-width: 240px) and (max-width: 479px){
     .logo a img{
         margin-left: 10px;
@@ -65,7 +66,7 @@ p{
 }
 @media (min-width: 721px) and (max-width: 840px){
     .logo a img{
-        width: 60px;
+        width: 70px;
     }
     .content{
         margin-top: 80%;
