@@ -46,6 +46,7 @@ p{
     width: 35px;
     height: auto;
     padding: 0 10px;
+    background-color: red;
 }
 @media (min-width: 240px) and (max-width: 479px){
     .logo a img{
