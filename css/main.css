@@ -63,7 +63,7 @@ p{
         font-size: 10px;
     }
 }
-@media (min-width: 721px){
+@media (min-width: 721px) and (max-width: 8400px){
     .logo a img{
         width: 60px;
     }
