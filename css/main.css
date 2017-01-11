@@ -55,7 +55,7 @@ p{
         margin-top: 100%;
     }
 }
-@media (min-width: 480px){
+@media (min-width: 480px) and (max-width: 620px){
     .content{
         margin-top: 22.5%;
     }
