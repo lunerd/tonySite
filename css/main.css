@@ -67,10 +67,16 @@ p{
 @media (min-width: 721px) and (max-width: 840px){
     .logo a img{
         width: 70px;
-        padding-top: 15px;
+        padding-top: 15px; 
+        margin-left: 10px;
     }
     .content{
         margin-top: 80%;
+    }
+}
+@media (min-width: 841px){
+    .content{
+        margin-top: 60%;
     }
 }
 
