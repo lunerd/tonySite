@@ -75,8 +75,12 @@ p{
     }
 }
 @media (min-width: 841px){
+    .logo a img{
+        width: 85px;
+        margin-left: 10px;
+    }
     .content{
-        margin-top: 48%;
+        margin-top: 550px;
     }
 }
 
