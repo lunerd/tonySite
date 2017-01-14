@@ -5,6 +5,9 @@ body{
     background-size: cover;
     background-color: black;
 }
+a{
+    text-decoration: none;
+}
 p{
     color: #7e7e7e;
     text-align: center;
